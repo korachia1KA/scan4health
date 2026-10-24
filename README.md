@@ -121,7 +121,7 @@ flutter run
 
 ## 👥 Team
 
-Developed as an AI/mobile engineering project by **Driss Zaggar** and collaborators.
+Developed as an AI/mobile engineering project by **abdelghafour korachi** and collaborators.
 
 ---
 
